@@ -9,8 +9,11 @@ Abra o projeto no Visual Studio e pressione `Ctrl+F5` para rodar.
 === SISTEMA DE CADASTRO ===
 
 Adicionar contato
+
 Listar contatos
+
 Remover contato
+
 Sair
 
 ## Conceitos utilizados
